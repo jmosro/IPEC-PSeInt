@@ -8,7 +8,7 @@ Autor: Jesús Alberto Moscoso Agüero
 2019  
 :costa_rica:  
 
-## 01. PSeInt Portafolio al 05-ago-2019/ :notebook:
+## 01. PSeInt Portafolio al 05-ago-2019/
 
 [**AreaCuadrado.psc**](01_PSeInt_Portafolio_05ago2019/AreaCuadrado.psc) :label:  
 `Calcular el área del cuadrado.`  
@@ -25,7 +25,7 @@ Autor: Jesús Alberto Moscoso Agüero
 [**SumaRepetitiva.psc**](01_PSeInt_Portafolio_05ago2019/SumaRepetitiva.psc) :label:  
 `Calcular la suma de 15 números por pantalla. Utilizar estructuras repetitivas.`  
 
-## 02. PSeInt Prácticas al 05-ago-2019/ :ledger:
+## 02. PSeInt Prácticas al 05-ago-2019/
 
 [**Contrasena3Intentos.psc**](02_PSeInt_Practicas_05ago2019/Contrasena3Intentos.psc) :label:  
 `Pedir contraseña con máximo de 3 intentos mientras no sea 352, 259 o 569.`  
@@ -63,7 +63,7 @@ Autor: Jesús Alberto Moscoso Agüero
 [**TripleNumero.psc**](02_PSeInt_Practicas_05ago2019/TripleNumero.psc) :label:  
 `Triple de un número.`  
 
-## 03. PSeInt Prácticas al 06-agos-2019/ :green_book:
+## 03. PSeInt Prácticas al 06-agos-2019/
 
 [**CualEsMayorSinoSonIguales.psc**](03_PSeInt_Practicas_06agos2019/CualEsMayorSinoSonIguales.psc) :label:  
 `Leer 2 números y en caso de que no sean iguales, indicar cuál es el mayor.`  
@@ -101,7 +101,7 @@ Autor: Jesús Alberto Moscoso Agüero
 [**TerceroIgualSumaPrimeroSegundo.psc**](03_PSeInt_Practicas_06agos2019/TerceroIgualSumaPrimeroSegundo.psc) :label:  
 `Pedir 3 números e indicar si el tercero es igual a la suma del primero + el segundo.`  
 
-## 04. PSeInt Estructuras Repetitivas al 27-ago-2019/ :orange_book:
+## 04. PSeInt Estructuras Repetitivas al 27-ago-2019/
 
 [**DoWhile_Contrasenna.psc**](04_PSeInt_Estructuras_Repetitivas_27ago2019/DoWhile_Contrasenna.psc) :label:  
 `Pedir una contraseña hasta que se digite la clave correcta. Con estructura de repetición.`  
@@ -124,7 +124,7 @@ Autor: Jesús Alberto Moscoso Agüero
 [**While_Sumatoria.psc**](04_PSeInt_Estructuras_Repetitivas_27ago2019/While_Sumatoria.psc) :label:  
 `Sumar 10 números con estructuras de repetición tipo while.`  
 
-## 05. PSeInt Quiz al 02-sep-2019/ :blue_book:
+## 05. PSeInt Quiz al 02-sep-2019/
 
 [**NumeroDescendiente.psc**](05_PSeInt_Quiz_02sep2019/NumeroDescendiente.psc) :label:  
 `Mostrar los números del 15 al 5 de forma descendiente.`  
